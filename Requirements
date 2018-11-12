@@ -1,0 +1,6 @@
+### You have to install these dependencies to carry out this program.
+
+pandas
+request
+BeautifulSoup
+NLTK
