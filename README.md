@@ -1,5 +1,5 @@
 
-(./WordFrequencyAnalysis/alice-in-wonderland-knowledge-quiz-header.png)
+(../alice-in-wonderland-knowledge-quiz-header.png)
 
 # Practice 1: Web scraping
 
