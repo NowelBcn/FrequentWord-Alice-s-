@@ -1,5 +1,5 @@
 
-![] (./alice-in-wonderland-knowledge-quiz-header.png)
+![] (./WordFrequencyAnalysis/alice-in-wonderland-knowledge-quiz-header.png)
 
 # Practice 1: Web scraping
 
