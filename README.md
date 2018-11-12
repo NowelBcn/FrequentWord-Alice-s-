@@ -8,9 +8,11 @@ The activity has been carried out individually by Noel Gallego Alarcón
 
 ## Source code files
 ./ Aice's adventures most frequent words.py: Jupyter notebook with the scraping process.
+
 . / listofwords.csv: contains the dataset with the data scrapped from the web. The dataset consists in a list of the most frequent words
 
 ## Resources
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+
 Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
       
