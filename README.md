@@ -1,3 +1,6 @@
+
+![] (./alice-in-wonderland-knowledge-quiz-header.png)
+
 # Practice 1: Web scraping
 
 ## Description
