@@ -7,10 +7,8 @@
 The activity has been carried out individually by Noel Gallego Alarcón
 
 ## Source code files
-src / main.py: point of entry to the program. Start the scraping process.
-src / scraper.py: contains the implementation of the AccidentsScraper class whose methods generate the data set from the PlaneCrashInfo online database.
-src / reason_classifier.py: contains the implementation of the class that is responsible for assigning a cause to a given accident summary. To do this, it uses the TextBlob library.
-
+./ Aice's adventures most frequent words.py: Jupyter notebook with the scraping process.
+. / listofwords.csv: contains the dataset with the data scrapped from the web. The dataset consists in a list of the most frequent words
 
 ## Resources
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
